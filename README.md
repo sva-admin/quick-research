@@ -1,3 +1,5 @@
+<p align="center"><a href="https://loop.sv-academy.org"><img src="https://loop.sv-academy.org/apple-icon.png" width="88" alt="Silicon Valley Academy"/></a></p>
+
 # quick-research
 
 Fast single-pass research producing a structured TL;DR brief with summary, key features, pros and cons, pricing, and a bottom line.
